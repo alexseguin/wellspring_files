@@ -1,0 +1,16 @@
+Welcome to Wellspring!
+_____________________________
+Changelog1:
+-Added patcher
+
+Gennova 2024-10-23
+_____________________________
+Changelog0:
+-Concept began
+-Updated Gui
+-Updated Hireling Graphics
+-Updated tiles
+-Updated spells
+-updated items
+
+Gennova 2024-10-23
